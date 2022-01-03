@@ -11,8 +11,8 @@ const Navigation = ({ locale, locales }) => {
     nl: 'Artiesten',
   }
   const resolveNews = {
-    en: 'News',
-    nl: 'Nieuws',
+    en: 'Genre',
+    nl: 'Genre',
   }
   const resolveMerchandise = {
     en: 'Shop',
