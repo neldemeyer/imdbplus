@@ -3,12 +3,12 @@ import Image from "next/image"
 
 const Navigation = ({ locale, locales }) => {
   const resolveMovies = {
-    en: 'Movies',
-    nl: 'Films',
+    en: 'Songs',
+    nl: 'Nummers',
   }
   const resolvePeople = {
-    en: 'People',
-    nl: 'Mensen',
+    en: 'Artists',
+    nl: 'Artiesten',
   }
   const resolveNews = {
     en: 'News',
