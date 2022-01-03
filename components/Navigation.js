@@ -4,7 +4,7 @@ import Image from "next/image"
 const Navigation = ({ locale, locales }) => {
   const resolveMovies = {
     en: 'Songs',
-    nl: 'Liedjes',
+    nl: 'Nummers',
   }
   const resolvePeople = {
     en: 'Artists',
